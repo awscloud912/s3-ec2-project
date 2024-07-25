@@ -52,3 +52,10 @@ Before running the script, ensure that you have the following:
 8. You should get the website below.
 
 ![Alt text](/ec2-s3-host.png)
+
+## Task 2
+
+1. Download the web files
+2. Upload the web files to a public GitHub repository.
+3. Create a script that downloads the web files from the GitHub repository and hosts the HTML website on an EC2 instance. Refer to the sample script provided above.
+4. Add the script to the EC2 user data at launch to host the HTML website.
